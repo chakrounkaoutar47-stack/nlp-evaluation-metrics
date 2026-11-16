@@ -1,0 +1,10 @@
+scikit-learn
+sklearn-crfsuite
+seqeval
+sacrebleu
+nltk
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
